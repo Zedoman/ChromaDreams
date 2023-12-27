@@ -1,32 +1,32 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&display=swap');
 
-
+/* Avradeep Nayak */
 /* Header Styles */
 .container header { 
     padding: 20px;
     text-align: center;
   }
-  
+  /* Avradeep Nayak */
   .container header h1 {
     color: #ffffff; /* Choose your desired text color */
     margin: 0;
     line-height: 1.5;
   }
-.container header p{
+.container header p{/* Avradeep Nayak */
     color: #afe71f;
     font-size: 15px;
     text-align: center;
 }
 
 
-*{
+*{/* Avradeep Nayak */
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
 
-body{
+body{/* Avradeep Nayak */
     background: url("images/bg2.jpg");
     display: flex;
     justify-content: center;
@@ -37,7 +37,7 @@ body{
 }
 
 
-.container{
+.container{/* Avradeep Nayak */
     position: relative;
     width: 600px;
     color: white;
@@ -51,7 +51,7 @@ body{
     margin-bottom: 30px;
 }
 
-.container h2{
+.container h2{/* Avradeep Nayak */
     opacity: 1.0;
     font-size: 28px;
     font-weight: 600;
@@ -136,7 +136,7 @@ button:disabled, button[disabled]{
     margin-bottom: 10px;
     max-width: 80%;
 }
-
+/* Avradeep Nayak */
 #image-grid img{
     max-width: 100%;
     border-radius: 10px;
@@ -167,7 +167,7 @@ button:disabled, button[disabled]{
     input{
         padding-top: 8px;
         padding-bottom: 8px;
-    }
+ /* Avradeep Nayak */   }
     #generate{
         font-size: 11px;
         padding: 0 2px;
@@ -182,13 +182,13 @@ button:disabled, button[disabled]{
   border-radius: 50%;
   margin: 30px auto;
 }
-
+/* Avradeep Nayak */
 .hourglassContainer {
   position: absolute;
   top: 30px;
   left: 40px;
   width: 50px;
-  height: 70px;
+  height: 70px;/* Avradeep Nayak */
   -webkit-animation: hourglassRotate 2s ease-in 0s infinite;
   animation: hourglassRotate 2s ease-in 0s infinite;
   transform-style: preserve-3d;
@@ -204,8 +204,8 @@ button:disabled, button[disabled]{
 @-webkit-keyframes hourglassRotate {
   0% {
     transform: rotateX(0deg);
-  }
-
+  }/* Avradeep Nayak */
+/* Avradeep Nayak */
   50% {
     transform: rotateX(180deg);
   }
@@ -214,7 +214,7 @@ button:disabled, button[disabled]{
     transform: rotateX(180deg);
   }
 }
-
+/* Avradeep Nayak */
 @keyframes hourglassRotate {
   0% {
     transform: rotateX(0deg);
@@ -231,7 +231,7 @@ button:disabled, button[disabled]{
 
 .hourglassCapTop {
   top: 0;
-}
+}/* Avradeep Nayak */
 
 .hourglassCapTop:before {
   top: -25px;
@@ -248,7 +248,7 @@ button:disabled, button[disabled]{
 .hourglassCapBottom:before {
   bottom: -25px;
 }
-
+/* Avradeep Nayak */
 .hourglassCapBottom:after {
   bottom: -20px;
 }
@@ -404,7 +404,7 @@ button:disabled, button[disabled]{
     height: 35px;
     top: 8px;
   }
-
+/* Avradeep Nayak */
   100% {
     height: 0;
     top: 8px;
@@ -426,7 +426,7 @@ button:disabled, button[disabled]{
     height: 35px;
     top: 8px;
   }
-
+/* Avradeep Nayak */
   85% {
     height: 35px;
     top: 8px;
@@ -442,7 +442,7 @@ button:disabled, button[disabled]{
   0% {
     opacity: 0;
   }
-
+/* Avradeep Nayak */
   50% {
     opacity: 0;
   }
@@ -467,7 +467,7 @@ button:disabled, button[disabled]{
 @keyframes sandStream2 {
   0% {
     opacity: 0;
-  }
+  }/* Avradeep Nayak */
 
   50% {
     opacity: 0;
@@ -636,7 +636,7 @@ button:disabled, button[disabled]{
     width: 38px;
     left: 6px;
   }
-
+/* Avradeep Nayak */
   90% {
     opacity: 1;
     top: 41px;
